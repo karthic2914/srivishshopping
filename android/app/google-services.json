@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271776516578",
+    "project_id": "srivishshopping",
+    "storage_bucket": "srivishshopping.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271776516578:android:3d5a83c3e20146d0a851bb",
+        "android_client_info": {
+          "package_name": "com.srivishshopping.mkartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNqG9teYHhyf3mGSVxsNe2d35z3Wj0XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
